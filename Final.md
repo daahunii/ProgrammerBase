@@ -18,3 +18,6 @@
 
 
 # ⚜️2일차 Git, Github, VSCode, Markdown⚜️
+
+### Git :  가장 인기있는 VCS(Version Control System)이다.
+### Github : 
